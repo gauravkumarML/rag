@@ -1,0 +1,7 @@
+
+Stochastic calculus is a branch of mathematics that extends traditional calculus to stochastic processes, 
+which are systems that evolve randomly over time. It provides a framework for integrating and 
+differentiating non-smooth random functions and is essential for modeling and analyzing complex systems in 
+fields like finance, where it is used for option pricing and risk management, as well as in physics and engineering. 
+The field was pioneered by Japanese mathematician Kiyosi Itô, who developed key concepts like the stochastic integral and 
+stochastic differential equations.  
