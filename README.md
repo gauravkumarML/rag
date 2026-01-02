@@ -32,8 +32,3 @@ python main.py
 └── README.md
 ```
 
-## Contributing
-Contributions are welcome. Please follow the project's coding standards.
-
-## License
-[Specify your license]
